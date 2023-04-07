@@ -329,7 +329,7 @@ use([
   LegendComponent
 ]);
 export default {
-  name: 'Home',
+  name: 'HomeView',
   data: () => ({
     toggle_exclusive: 1,
     orders: [
